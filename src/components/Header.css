@@ -1,17 +1,24 @@
 .Menu{
     background-color: black;
     width:180px;
-    padding:30px 20px;
+    min-height:800px;
+    height: auto;
+    padding:25px 25px;
+    position: fixed;
 }
-
 .Listas{
     color:rgba(255, 255, 255, 0.678);
     list-style: none;
-    font-size: 22px;
+    font-size: 15px;
     font-family:sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     padding-top:30px;
-    line-height: 50px;
+    line-height: 35px;
+}
+.Cokies{
+    color:rgba(255, 255, 255, 0.678);
+    margin-top: 300px;
+    font-size: 13px;
 };
 
 
