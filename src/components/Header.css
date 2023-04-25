@@ -1,0 +1,18 @@
+.Menu{
+    background-color: black;
+    width:180px;
+    padding:30px 20px;
+}
+
+.Listas{
+    color:rgba(255, 255, 255, 0.678);
+    list-style: none;
+    font-size: 22px;
+    font-family:sans-serif;
+    font-weight: 400;
+    padding-top:30px;
+    line-height: 50px;
+};
+
+
+
