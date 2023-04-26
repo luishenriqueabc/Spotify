@@ -1,0 +1,58 @@
+.Corpo{
+    background-color: rgba(0, 0, 0, 0.849);
+    height: 1200px;
+    padding-top: 20px;
+    padding-left:250px;
+}
+.Land{
+    display: flex;
+    margin-bottom:30px;
+}
+.Land h1{
+    color:white;
+    font-size:25px;
+    font-family: sans-serif;
+}
+.Land h3{
+    color:rgba(255, 255, 255, 0.678);
+    font-size:15px; 
+}
+.Land h3:hover{
+    cursor:pointer;
+    text-decoration: underline;
+    transition-timing-function:ease-in-out(5s); 
+}
+.Cards{
+    display: flex;
+    color:white;
+}
+.Card{
+    background-color: rgba(0, 0, 0, 0.116);
+    margin-right: 25px;
+    width:250px;
+    height:350px;
+    border-radius: 30px;
+}
+.Card img{
+    border-radius: 20px;
+    margin-left:15px;
+}
+.Card h1{
+    margin-top:20px;
+    margin-left:12px;
+    margin-bottom :20px;
+    font-size:13px;
+    font-family:sans-serif
+}
+.Card h3{
+    margin-top:20px;
+    margin-left:12px;
+    margin-bottom :20px;
+    font-size:13px;
+    font-family:sans-serif
+}
+.Card:hover{
+    background-color: rgba(0, 0, 0, 0.226);
+    -o-transition-timing-function: (2);
+    cursor:pointer;
+}
