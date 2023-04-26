@@ -1,8 +1,9 @@
 .Corpo{
     background-color: rgba(0, 0, 0, 0.849);
-    height: 1200px;
+    height: auto;
     padding-top: 20px;
     padding-left:250px;
+    padding-bottom: 200px;
 }
 .Land{
     display: flex;
@@ -31,10 +32,10 @@
     margin-right: 25px;
     width:250px;
     height:350px;
-    border-radius: 30px;
+    border-radius: 5px;
 }
 .Card img{
-    border-radius: 20px;
+    border-radius: 5px;
     margin-left:15px;
 }
 .Card h1{
@@ -52,7 +53,45 @@
     font-family:sans-serif
 }
 .Card:hover{
-    background-color: rgba(0, 0, 0, 0.226);
+    background-color: rgba(0, 0, 0, 0.295);
     -o-transition-timing-function: (2);
     cursor:pointer;
+}
+.LandPlaylist {
+    display: flex;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.LandPlaylist h1{
+    color:white;
+    font-size:25px;
+    font-family: sans-serif;
+}
+.LandPlaylist h3{
+    color:rgba(255, 255, 255, 0.678);
+    font-size:15px;
+}
+.LandPlaylist h3:hover{
+    cursor:pointer;
+    text-decoration: underline;
+    transition-timing-function:ease-in-out(5s); 
+}
+.ParaDormir{
+    display: flex;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.ParaDormir h1{
+    color:white;
+    font-size:25px;
+    font-family: sans-serif;
+}
+.ParaDormir h3{
+    color:rgba(255, 255, 255, 0.678);
+    font-size:15px;
+}
+.ParaDormir h3:hover{
+    cursor:pointer;
+    text-decoration: underline;
+    transition-timing-function:ease-in-out(5s); 
 }
