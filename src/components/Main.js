@@ -21,21 +21,33 @@ const Main = () =>{
                 </div>
                 <div className="Card">
                 <img src={CardImg} alt="Card" width="180px" height={200}/>
+                <div className="Icone">
+                        <BsPlayCircleFill size={50} style={{color:"green"}}/>
+                </div>
                     <h1>Nome</h1>
                     <h3>Descriçao sobre as músicas..</h3>
                 </div>
                 <div className="Card">
                 <img src={CardImg} alt="Card" width="180px" height={200}/>
+                <div className="Icone">
+                        <BsPlayCircleFill size={50} style={{color:"green"}}/>
+                </div>
                     <h1>Nome</h1>
                     <h3>Descriçao sobre as músicas..</h3>  
                 </div>
                 <div className="Card">
                 <img src={CardImg} alt="Card" width="180px" height={200}/>
+                <div className="Icone">
+                        <BsPlayCircleFill size={50} style={{color:"green"}}/>
+                </div>
                     <h1>Nome</h1>
                     <h3>Descriçao sobre as músicas..</h3>  
                 </div>
                 <div className="Card">
                 <img src={CardImg} alt="Card" width="180px" height={200}/>
+                <div className="Icone">
+                        <BsPlayCircleFill size={50} style={{color:"green"}}/>
+                </div>
                     <h1>Nome</h1>
                     <h3>Descriçao sobre as músicas..</h3>  
                 </div>
@@ -50,26 +62,41 @@ const Main = () =>{
             <div className="Cards">
                 <div className="Card">
                     <img src={CardImg} alt="Card" width="180px" height={200}/>
+                    <div className="Icone">
+                        <BsPlayCircleFill size={50} style={{color:"green"}}/>
+                    </div>
                     <h1>Nome</h1>
                     <h3>Descriçao sobre as músicas..</h3>
                 </div>
                 <div className="Card">
                 <img src={CardImg} alt="Card" width="180px" height={200}/>
+                <div className="Icone">
+                        <BsPlayCircleFill size={50} style={{color:"green"}}/>
+                </div>
                     <h1>Nome</h1>
                     <h3>Descriçao sobre as músicas..</h3>
                 </div>
                 <div className="Card">
                 <img src={CardImg} alt="Card" width="180px" height={200}/>
+                <div className="Icone">
+                        <BsPlayCircleFill size={50} style={{color:"green"}}/>
+                </div>
                     <h1>Nome</h1>
                     <h3>Descriçao sobre as músicas..</h3>  
                 </div>
                 <div className="Card">
                 <img src={CardImg} alt="Card" width="180px" height={200}/>
+                <div className="Icone">
+                        <BsPlayCircleFill size={50} style={{color:"green"}}/>
+                </div>
                     <h1>Nome</h1>
                     <h3>Descriçao sobre as músicas..</h3>  
                 </div>
                 <div className="Card">
                 <img src={CardImg} alt="Card" width="180px" height={200}/>
+                <div className="Icone">
+                        <BsPlayCircleFill size={50} style={{color:"green"}}/>
+                </div>
                     <h1>Nome</h1>
                     <h3>Descriçao sobre as músicas..</h3>  
                 </div>
@@ -81,16 +108,25 @@ const Main = () =>{
             <div className="Cards">
                 <div className="Card">
                     <img src={CardImg} alt="Card" width="220px" height={200}/>
+                    <div className="Icone">
+                        <BsPlayCircleFill size={50} style={{color:"green"}}/>
+                    </div>
                     <h1>Nome</h1>
                     <h3>Descriçao sobre as músicas..</h3>
                 </div>
                 <div className="Card">
                 <img src={CardImg} alt="Card" width="220px" height={200}/>
+                <div className="Icone">
+                        <BsPlayCircleFill size={50} style={{color:"green"}}/>
+                </div>
                     <h1>Nome</h1>
                     <h3>Descriçao sobre as músicas..</h3>
                 </div>
                 <div className="Card">
                 <img src={CardImg} alt="Card" width="220px" height={200}/>
+                <div className="Icone">
+                        <BsPlayCircleFill size={50} style={{color:"green"}}/>
+                </div>
                     <h1>Nome</h1>
                     <h3>Descriçao sobre as músicas..</h3>  
                 </div>
