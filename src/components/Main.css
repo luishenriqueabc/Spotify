@@ -9,6 +9,7 @@
 .Land{
     display: flex;
     margin-bottom:30px;
+    margin-top: 80px;
 }
 .Land h1{
     color:white;

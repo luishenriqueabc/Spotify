@@ -16,6 +16,16 @@
     padding-top:30px;
     line-height: 35px;
 }
+li a{
+    text-decoration: none;
+    color:rgba(255, 255, 255, 0.678);
+}
+a:hover{
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    transition-timing-function:ease-in-out(5s);
+}
 li:hover{
     cursor: pointer;
     color: white;

@@ -1,7 +1,8 @@
 .Topo{
     background-color: rgba(0, 0, 0, 0.904);
-    width:auto;
-    padding-left: 250px;
+    width:100%;
+    position: fixed;
+    margin-left: 230px;
     padding-top:10px;
     padding-bottom:15px;
     height: 50px;
