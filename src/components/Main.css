@@ -51,6 +51,7 @@
     opacity: 2;
     transition: .10s linear;
     transform: translate(-5%, -320%);
+    position: static;
   
 }
 .Card h1{

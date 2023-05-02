@@ -1,7 +1,11 @@
-
+ import HeaderSearch from "../components/HeaderBuscar";
+import NavBar from "../components/NavBar";
 const PageBuscar = () =>{
     return(
-        <h1>Teste</h1>
+        <>
+        <NavBar />
+        <HeaderSearch />
+        </>
     );
 };
 export default PageBuscar;

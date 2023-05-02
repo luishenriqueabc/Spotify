@@ -15,7 +15,7 @@ const NavBar = () =>{
                 <div className="Logo">
                     <img src= {spotify} alt="Logo" width="125px"/>
                     <ul className="Listas">
-                        <li > <RiHome7Fill size={22}  style={{paddingRight:"20px"}}/>  Inicio</li>
+                        <li > <RiHome7Fill size={22}  style={{paddingRight:"20px"}}/> <Link to='/'>Inicio</Link> </li>
                         <li> <FaSearch size={22}  style={{paddingRight:"20px"}} /> <Link to='/Search'>Buscar</Link></li>
                         <li> <BiBlanket size={22}  style={{paddingRight:"20px"}} />   Sua Biblioteca</li>
                     {/* Espaçamento e criação de playlist */}
