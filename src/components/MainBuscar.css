@@ -1,0 +1,41 @@
+.CorpoBuscar{
+    background-color: rgba(0, 0, 0, 0.89);
+    height: auto;
+    width:auto;
+    padding-top: 20px;
+    padding-left:250px;
+    padding-bottom: 200px;
+}
+.LandBuscar h1{
+    padding-top:130px;
+    color:white;
+   font-family: sans-serif;
+   font-size: 25px;
+}
+.CardsBuscar{
+    display:flex;
+    flex-wrap: wrap;
+}
+.CardBuscar{
+    margin-top:40px;
+    background-color: rgba(6, 158, 6, 0.692);
+    margin-right: 20px;
+    margin-left: 30px;
+    height:230px;
+    width:240px;
+    border-radius: 30px;
+}
+.CardBuscar h3{
+color:white;
+margin-left:30px;
+margin-top:30px;
+font-size: 20px;
+font-family: sans-serif;
+}
+.Line{
+    margin: 40px 20px;
+    margin-top:120px;
+    border: 0;
+    border-top: 0.5px solid rgba(65, 63, 63, 0.418);;
+  }
+
